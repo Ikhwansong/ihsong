@@ -1,4 +1,4 @@
-# ihsong
+# sorting characters
 
 이 알고리듬은 영상에서 어떠한 물체를 검출 했으면 그들의 좌표를 가지고 목적에 따라 sorting 해주는 것입니다.
 
