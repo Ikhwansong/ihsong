@@ -54,4 +54,4 @@ Configuration
 
 적용 예
 
-![exampleimage](./example_image.jpeg)
+![exampleimage](./example_image.jpg)
